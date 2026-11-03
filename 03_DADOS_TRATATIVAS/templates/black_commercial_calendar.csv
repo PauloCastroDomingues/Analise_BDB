@@ -1,0 +1,5 @@
+event_id,event_date,event_time_brt,event_type,action_name,channel,owner,product_scope,expected_effect,primary_metric,notes
+evt_001,2026-11-27,09:00,crm,CRM base quente,email,CRM,tenis premium,aumentar pedidos,pedidos pagos,
+evt_002,2026-11-27,12:00,promo,cupom relampago,site,Comercial,todos,aumentar volume,pedidos pagos,
+evt_003,2026-11-27,15:00,social,prova social modelos RS,instagram,Social,RS6 RS8,aumentar conversao,receita paga,
+evt_004,2026-11-27,20:00,midia,reforco janela pico,paid,Performance,produtos com estoque,escalar receita,receita paga,

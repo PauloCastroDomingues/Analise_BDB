@@ -1,0 +1,2 @@
+decision_id,decision_ts_brt,view_source,recommendation,reason,evidence,owner,status,due_ts_brt,risk_if_no_action
+dec_001,2026-11-27 14:30,heatmap_comercial,segurar escala em RS8 preto,risco de ruptura,alto volume + estoque baixo,Performance,pendente,2026-11-27 17:00,ruptura e perda de venda

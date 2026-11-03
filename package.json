@@ -1,0 +1,11 @@
+{
+  "name": "reise-analise-bdb",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test 04_APP_FRONT/tests/*.test.mjs"
+  }
+}

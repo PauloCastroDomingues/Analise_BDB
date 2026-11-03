@@ -1,0 +1,11 @@
+/* Reise Cult: original local assets, digital palette and type scale. */
+@font-face { font-family: Aalto; src: url('../assets/fonts/aalto-regular.otf') format('opentype'); font-weight: 400; font-display: swap; }
+@font-face { font-family: Aalto; src: url('../assets/fonts/aalto-bold.otf') format('opentype'); font-weight: 600 900; font-display: swap; }
+@font-face { font-family: Formula1; src: url('../assets/fonts/formula1-bold.ttf') format('truetype'); font-weight: 700; font-display: swap; }
+:root {
+  --bg: #1d1d1b; --surface: #242422; --surface-2: #2b2b29; --sidebar: #191917;
+  --text: #f4f4f4; --muted: #b6b5b2; --quiet: #a09f9a; --line: #3c3b38; --line-strong: #595650;
+  --orange: #fb5d06; --asphalt: #3f3a38; --green: #b3d1bb; --yellow: #dec9a6; --red: #e3aaa4; --blue: #b8c5cf;
+  --shadow: 0 16px 36px #0005; --radius: 10px; --sidebar-width: 238px; --ease: 180ms ease;
+  color-scheme: dark; font-family: Aalto, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.5;
+}

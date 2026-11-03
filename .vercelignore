@@ -1,0 +1,16 @@
+.codex/
+.git/
+.vercel/
+node_modules/
+dist/
+00_BRIEFING/
+01_FRONT_MOCKUPS/
+02_SOURCE_BIGQUERY/
+03_DADOS_TRATATIVAS/
+05_APPS_SCRIPT_BRIDGE/
+06_AUTOMACAO/
+04_APP_FRONT/tests/
+04_APP_FRONT/README.md
+README.md
+.env*
+*.log
